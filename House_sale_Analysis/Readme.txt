@@ -5,3 +5,10 @@ you are a Data Analyst working at a Real Estate Investment Trust. The Trust woul
 
 About the Dataset:
 This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015. 
+
+Objectives:
+Load the data as a pandas dataframe
+Clean the data, taking care of the blank entries
+Run exploratory data analysis (EDA) and identify the attributes that most affect the "Price"
+Develop single variable and multi variable Linear Regression models for predicting the "Price"
+Use Ridge regression to refine the performance of Linear regression models.
