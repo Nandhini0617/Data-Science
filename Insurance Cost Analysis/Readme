@@ -1,1 +1,16 @@
+Insurance Cost Analysis
 
+Objectives: 
+ - Load the data as a `pandas` dataframe
+ - Clean the data, taking care of the blank entries
+ - Run exploratory data analysis (EDA) and identify the attributes that most affect the `charges`
+ - Develop single variable and multi variable Linear Regression models for predicting the `charges`
+ - Use Ridge regression to refine the performance of Linear regression models. 
+
+Setup:
+- skillsnetwork to download the data
+- pandas for managing the data.
+- numpy for mathematical operations.
+- sklearn for machine learning and machine-learning-pipeline related functions.
+- seaborn for visualizing the data.
+- matplotlib for additional plotting tools.
